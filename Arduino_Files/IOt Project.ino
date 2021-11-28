@@ -12,8 +12,8 @@
 float  BPM, SpO2, bodytemperature;
  
 /*Put your SSID & Password*/
-const char* ssid = "Hadiii";  // Enter SSID here
-const char* password = "#Hadi0800";  //Enter Password here
+const char* ssid = "";  // Enter SSID here
+const char* password = "";  //Enter Password here
 WiFiClient  client;
 unsigned long myChannelNumber = 1448708;
 const char *WRITE_API = "4ONZ6VBUKUJG3LOS";
