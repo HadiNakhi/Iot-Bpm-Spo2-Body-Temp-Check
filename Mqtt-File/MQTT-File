@@ -2,8 +2,8 @@
 #include <PubSubClient.h> 
 const char* ssid = "TP-LINK_3C2F3A"; 
 const char* password = ""; 
-//const char* mqtt_server = "192.168.1.2"; 
-const char* mqtt_server = "192.168.43.66"; 
+//const char* mqtt_server = ""; 
+const char* mqtt_server = ""; 
 WiFiClient esp8266device; 
 PubSubClient client(esp8266device); 
 void setup_wifi() { 
