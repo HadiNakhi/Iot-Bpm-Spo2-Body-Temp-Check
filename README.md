@@ -3,19 +3,19 @@ With tons of new healthcare technology start-ups, IoT is rapidly revolutionizing
 
 In this project:
 
-   -Arduino Wemos D1, puls-oximeter sensor and Temperature Sensor
+      -Arduino Wemos D1, puls-oximeter sensor and Temperature Sensor
    
-   -Node-red as the main server
+      -Node-red as the main server
    
-   -MQTT and HTTP protocols
+      -MQTT and HTTP protocols
    
-   -Mysql Database
+      -Mysql Database
    
-   -Graphical interface (WebPage) using HTML, CSS
+      -Graphical interface (WebPage) using HTML, CSS
    
-   -Use ThingSpeak Tools For Draw Charts
+      -Use ThingSpeak Tools For Draw Charts
    
-   -Long Polling method in WebPage (Long polling is a method that server applications use to hold a client connection until information becomes available)
+      -Long Polling method in WebPage (Long polling is a method that server applications use to hold a client connection until information becomes available)
    
 
 used.
